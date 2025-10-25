@@ -8,6 +8,8 @@ SmartPointers/build/
 OOPS/build/
 C++_IO_FILE_STREAMS/build/
 Templates/build/
+STL_Containers/build/
+STL_Iterators_Algorithms/build/
 /CMakeFiles/
 /CMakeCache.txt
 Makefile

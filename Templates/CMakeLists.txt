@@ -2,8 +2,10 @@
 cmake_minimum_required(VERSION 3.5)
 project(templates)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 add_executable(std_max_function_template std_max_function_template.cpp)
 add_executable(pair_class_template pair_class_template.cpp)
+add_executable(sfinae_one sfinae_one.cpp)
+add_executable(sfinae_two sfinae_two.cpp)

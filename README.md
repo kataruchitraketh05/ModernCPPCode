@@ -4,7 +4,7 @@ Also implementation of simple task manager to complex task managers using thread
 Learn about different types of smart pointers in C++
 Learn about various OOPS concepts
 Learn about C++ I/O File and string streams
-Learn about C++ templates
+Learn about C++ templates, SFINAE(Substituion Failure is not an error)
 Learn about STL containers
 To build the binaries in linux machine follow the following steps
 1. Create a build folder(mkdir build)

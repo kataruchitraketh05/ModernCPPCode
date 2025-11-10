@@ -1,0 +1,15 @@
+#cmake
+cmake_minimum_required(VERSION 3.5)
+project(mutex_semaphore)
+
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+
+add_executable(std_mutex_lock_guard std_mutex_lock_guard.cpp)
+add_executable(std_mutex_unique_lock std_mutex_unique_lock.cpp)
+add_executable(std_mutex_scoped_lock std_mutex_scoped_lock.cpp)
+add_executable(std_recursive_mutex std_recursive_mutex.cpp)
+add_executable(std_timed_mutex std_timed_mutex.cpp)
+add_executable(std_shared_mutex std_shared_mutex.cpp)
+add_executable(std_counting_semaphore std_counting_semaphore.cpp)
+add_executable(std_binary_semaphore std_binary_semaphore.cpp)

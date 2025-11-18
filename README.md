@@ -5,7 +5,8 @@ Learn about different types of smart pointers in C++
 Learn about various OOPS concepts
 Learn about C++ I/O File and string streams
 Learn about C++ templates, SFINAE(Substituion Failure is not an error)
-Learn about STL containers
+Learn about STL containers and algorithms
+Learn about various types of mutexes, RAII wrappers on mutexes and semaphores
 To build the binaries in linux machine follow the following steps
 1. Create a build folder(mkdir build)
 2. Go inside build folder(cd build)
